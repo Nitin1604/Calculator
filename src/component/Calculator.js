@@ -57,7 +57,7 @@ function handelInputAA(event) {
 }
 // function handling Input BB (/)
 function handelInputBB(event) {
-    setInputBB(event.target.value);
+    setInputBB(event.target.value);  
 }
 return (
         <div>
