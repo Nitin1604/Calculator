@@ -1,5 +1,6 @@
 import { useState } from "react"; // useState is defined here
 
+// Calculator function defined here
 const Calculator = () => {
 
     // useState for Addition of two numbers
