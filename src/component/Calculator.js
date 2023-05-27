@@ -1,6 +1,7 @@
-import { useState } from "react"; 
+import { useState } from "react"; // useState is defined here
 
-const Calculator = () => {  
+// Calculator function defined here
+const Calculator = () => {
 
     // useState for Addition of two numbers
     const [inputA, setInputA] = useState(10);  
