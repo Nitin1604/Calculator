@@ -61,7 +61,7 @@ function handelInputBB(event) {
 return (
         <div>
             <hr/>
-            <h1>Calculator in browser Tab</h1>
+            <h1 className="heading_h1">Calculator in browser Tab</h1>
             {/* " + " operation for variable a and b */}
             <input type="text" name="a" placeholder="input the value of a" value={inputA} onChange={handleInputA}/>
             {" + "}
