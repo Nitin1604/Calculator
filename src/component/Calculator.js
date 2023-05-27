@@ -50,9 +50,9 @@ function handelINPUTb(event) {
     setINPUTb(event.target.value);
 }
 
-// function handling Input AA (/) 
+// function handling Input AA (/)
 function handelInputAA(event) {
-    setInputAA(event.target.value); 
+    setInputAA(event.target.value);
 }
 // function handling Input BB (/)
 function handelInputBB(event) {
@@ -61,7 +61,7 @@ function handelInputBB(event) {
 return (
         <div>
             <hr/>
-            <h1 className="heading_h1">Calculator in browser Tab</h1>
+            <h1>Calculator in browser Tab</h1>
             {/* " + " operation for variable a and b */}
             <input type="text" name="a" placeholder="input the value of a" value={inputA} onChange={handleInputA}/>
             {" + "}
