@@ -1,6 +1,6 @@
 import { useState } from "react"; 
 
-const Calculator = () => {
+const Calculator = () => {  
 
     // useState for Addition of two numbers
     const [inputA, setInputA] = useState(10);  
