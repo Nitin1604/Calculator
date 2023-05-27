@@ -1,6 +1,5 @@
-import { useState } from "react"; // useState is defined here
+import { useState } from "react";
 
-// Calculator function defined here
 const Calculator = () => {
 
     // useState for Addition of two numbers
@@ -57,7 +56,7 @@ function handelInputAA(event) {
 }
 // function handling Input BB (/)
 function handelInputBB(event) {
-    setInputBB(event.target.value);  
+    setInputBB(event.target.value);
 }
 return (
         <div>
