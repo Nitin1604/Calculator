@@ -1,4 +1,5 @@
-Calculator Using React JS 
-In this project i am using react js for making project calculator in the web browser
+**Calculator Using React JS **
+
+In this project i am using react js for making project calculator in the web browser.
 This project simply takes input from the user for the addition , subtraction , multiplication 
 and division of any two numbers.
